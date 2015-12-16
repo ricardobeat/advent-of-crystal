@@ -19,9 +19,7 @@ thumbs.db
 
 *.sublime-workspace
 
-/doc/
-/libs/
-/.crystal/
-/.shards/
+.crystal/
+.shards/
 
 
